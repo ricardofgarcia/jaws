@@ -14,7 +14,7 @@ For each `issue returned`
 If you are unable to send the message, show me the reasons and provide suggestions on how to fix any errors.
 
 ## Target Slack Users
-`TPM email` = rgarcia@redhat.com
+`TPM email` = tpm@example.com
 
 ### Overdue Issues
 `target slack user email` = `TPM Email`
@@ -29,7 +29,8 @@ Here is a table with `email` and `Slack Member ID` that you can use to find the 
 
 | email | Member ID |
 |:------|:---|
-| me@example.com | MySlackMemberID |
+| manager1@example.com | Manager1_SlackMemberID |
+| managerN@example.com | ManagerN_SlackMemberID |
 
 ### Sending Messages
 
