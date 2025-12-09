@@ -29,9 +29,7 @@ Here is a table with `email` and `Slack Member ID` that you can use to find the 
 
 | email | Member ID |
 |:------|:---|
-| rgarcia@redhat.com | U012X6W2SHZ |
-| kseiter@redhat.com | U08JGLV9C1G |
-| njean@redhat.com | U03SZC8SKND | 
+| me@example.com | MySlackMemberID |
 
 ### Sending Messages
 
